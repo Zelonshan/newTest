@@ -70,7 +70,7 @@ spring:
                 sharding-algorithm-name: answer-table-inline
 server:
   address: 0.0.0.0
-  port: 8101
+  port: 8080
   servlet:
     context-path: /api
     # cookie 30 天过期
